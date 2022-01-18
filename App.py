@@ -1,1 +1,1 @@
-print('Hello world')
+print('Hello world Kenneth Njuguna First Python Program')
