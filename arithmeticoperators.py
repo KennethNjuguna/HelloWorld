@@ -7,3 +7,16 @@ print(x)
 y=20
 y *=3
 print(y)
+
+w= 10 + 3 * 7
+print(w)
+
+z= 8>10
+print(z)
+
+price=25
+print(price>10 and price<30)
+logical operators
+or
+and
+not
