@@ -7,10 +7,12 @@ x=10
 x +=3
 print(x)
 
+#This program below does the Multiplication but the code is written in a different way.
 y=30
 y *=3
 print(y)
 
+#Below code does the simple addition and Multiplication implementing the mathematic policy of BODMAS
 w= 10 + 3 * 7
 print(w)
 
