@@ -1,6 +1,8 @@
 #We have the Multiplication Aithmetic operator "*"
 print(10**3)
 
+
+#We have the Incremental or Additional Aithmetic operator "+"
 x=10
 x +=3
 print(x)
