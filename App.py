@@ -7,4 +7,6 @@ is_offline= True
 print('Hello world Kenneth Njuguna First Python Program')
 print(age)
 
+print("Hello the price of Flour is")
+print(Price)
 
