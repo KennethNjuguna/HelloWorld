@@ -16,7 +16,7 @@ print(z)
 
 price=25
 print(price>10 and price<30)
-logical operators
-or
-and
-not
+#logical operators
+#or
+#and
+#not
