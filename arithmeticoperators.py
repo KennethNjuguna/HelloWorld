@@ -16,6 +16,7 @@ print(y)
 w= 10 + 3 * 7
 print(w)
 
+#On the code below we have the comparison operator ">" which means greater than
 z= 8>10
 print(z)
 
