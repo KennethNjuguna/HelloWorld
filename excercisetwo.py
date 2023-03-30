@@ -3,7 +3,7 @@
 weight= float(input("weight: "))
 unit=(input("(K)g or (L)bs: "))
 
-
+#Below code converts Weight declared in (K)g to (L)bs
 if unit == "k":
     weight_k = weight / 2.20462
     print("weight in Pounds: " + str(weight_k))
