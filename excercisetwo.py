@@ -1,3 +1,5 @@
+#Below code does the conversions of Weight either in Kilograms (K)g or (L)bs
+#We declare the weight and the unit be it in LBS or KGS
 weight= float(input("weight: "))
 unit=(input("(K)g or (L)bs: "))
 
