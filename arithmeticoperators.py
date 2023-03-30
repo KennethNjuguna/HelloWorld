@@ -20,6 +20,8 @@ print(w)
 z= 8>10
 print(z)
 
+
+#Below code does the arithemetic operator of greater than ">" and the arithmetic operator of ">"
 price=25
 print(price>10 and price<30)
 
