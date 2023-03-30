@@ -1,3 +1,5 @@
+#This code does an if statement which is a flow control when the temperature changes in different scenarios
+
 temperature= 35
 if temperature>40:
     print("it's a very hot day")
